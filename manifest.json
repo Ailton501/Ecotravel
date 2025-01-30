@@ -19,6 +19,8 @@
       "type": "image/jpeg"
     }
   ],
+  "id": "/index.html",
+  "start_url": "/index.html",
   "screenshots": [
     {
       "src": "recursos/img/captura1.png",
